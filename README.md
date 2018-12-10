@@ -9,6 +9,12 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 
 
-☆ https://t.me/joinchat/AAAAAEXQOSyIpN2JZ0ehUQ ☆
+==================================================================================
+
+*SIN MINERIA! *SIN KEYS! *VERSION GRATUITA *SIN VIRUS TROJANO (BOTNET) *ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+
+==================================================================================
+
+☆ https://t.me/admmanagerfree ☆
 =================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ]
+TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_gato
