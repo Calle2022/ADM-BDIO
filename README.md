@@ -1,6 +1,6 @@
 ﻿# GENERADOR-ADM-MANAGER-ULTIMATE-FREE
 
-Manager Script
+Generador De Key
 
  • RECOMENDADO UBUNTU 14.04
 
@@ -17,4 +17,4 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 ☆ https://t.me/admmanagerfree ☆
 =================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_gato
+TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato
